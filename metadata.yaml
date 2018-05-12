@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '32145'
     url: http://www.gutenberg.org/2009/agents/32145
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26645#Two-Daring-Young-Patriotsor-Outwitting-the-Huns
 gutenberg_issued: '2008-09-17'
 gutenberg_type: Text
 identifiers:
